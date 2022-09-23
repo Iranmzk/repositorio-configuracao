@@ -1,0 +1,8 @@
+data:
+  mongodb:
+    port: 55000
+    host: localhost
+    database: data
+
+server:
+  port: 8191
