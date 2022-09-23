@@ -5,4 +5,4 @@ data:
     database: data
 
 server:
-  port: 8191
+  port: 7000
