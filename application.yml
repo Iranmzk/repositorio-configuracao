@@ -1,4 +1,12 @@
-message: teste
+# message: teste
 
+# server:
+#   port: 9081
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 55000
+      database: teste
 server:
   port: 9081
