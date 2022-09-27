@@ -1,8 +1,10 @@
 spring:
+  application:
+    name: "bovespa-application"
   data:
     mongodb:
       host: localhost
+      database: test
       port: 55000
-      database: teste
 server:
-  port: 8081
+  port: 9000
